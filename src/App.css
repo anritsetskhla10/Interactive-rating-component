@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Overpass:ital,wght@0,100..900;1,100..900&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    min-width: 375px;
+    min-height: 100vh;
+    font-family: "Overpass", sans-serif;
+    padding: 154px 24px 153px;
+    background-color: #131518;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
